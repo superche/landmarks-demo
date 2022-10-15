@@ -1,13 +1,13 @@
 //
-//  LandmarksUITests.swift
-//  LandmarksUITests
+//  MacLandmarksUITests.swift
+//  MacLandmarksUITests
 //
-//  Created by Zongshao Che on 2022/10/9.
+//  Created by Zongshao Che on 2022/10/12.
 //
 
 import XCTest
 
-final class LandmarksUITests: XCTestCase {
+final class MacLandmarksUITests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.

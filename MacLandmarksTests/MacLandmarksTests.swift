@@ -1,13 +1,14 @@
 //
-//  LandmarksTests.swift
-//  LandmarksTests
+//  MacLandmarksTests.swift
+//  MacLandmarksTests
 //
-//  Created by Zongshao Che on 2022/10/9.
+//  Created by Zongshao Che on 2022/10/12.
 //
 
 import XCTest
+@testable import MacLandmarks
 
-final class LandmarksTests: XCTestCase {
+final class MacLandmarksTests: XCTestCase {
 
     override func setUpWithError() throws {
         // Put setup code here. This method is called before the invocation of each test method in the class.
@@ -27,7 +28,7 @@ final class LandmarksTests: XCTestCase {
 
     func testPerformanceExample() throws {
         // This is an example of a performance test case.
-        measure {
+        self.measure {
             // Put the code you want to measure the time of here.
         }
     }

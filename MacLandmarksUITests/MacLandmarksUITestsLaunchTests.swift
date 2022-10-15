@@ -1,13 +1,13 @@
 //
-//  LandmarksUITestsLaunchTests.swift
-//  LandmarksUITests
+//  MacLandmarksUITestsLaunchTests.swift
+//  MacLandmarksUITests
 //
-//  Created by Zongshao Che on 2022/10/9.
+//  Created by Zongshao Che on 2022/10/12.
 //
 
 import XCTest
 
-final class LandmarksUITestsLaunchTests: XCTestCase {
+final class MacLandmarksUITestsLaunchTests: XCTestCase {
 
     override class var runsForEachTargetApplicationUIConfiguration: Bool {
         true
